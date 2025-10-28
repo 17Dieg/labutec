@@ -1,0 +1,6 @@
+# Carpetas
+reports/
+venv/
+
+# Archivos JSON
+*.json
