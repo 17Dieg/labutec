@@ -1,0 +1,7 @@
+# Carpetas
+reports/
+venv/
+wazuh-docker/
+
+# Archivos JSON
+*.json
